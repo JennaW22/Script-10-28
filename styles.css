@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+button {
+    margin: 9%;
+    padding: 2%;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
